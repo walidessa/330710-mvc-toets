@@ -1,5 +1,5 @@
 <?php
-    class countries {
+    class Countries {
         private $db;
 
         public function __construct() {

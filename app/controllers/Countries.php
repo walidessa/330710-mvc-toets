@@ -1,5 +1,5 @@
 <?php
-class countries extends Controller {
+class Countries extends Controller {
     public function __construct() {
         //$this->userModel = $this->model('User');
     }
