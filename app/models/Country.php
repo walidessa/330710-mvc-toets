@@ -1,10 +1,10 @@
 <?php
-    class getCountries {
+    class countries {
         private $db;
 
         public function __construct() {
             $this->db = new Database;
-            $this->db->query("SELECT * FROM users");
+            $this->db->query("SELECT * FROM countries");
             $result = $this->db->resultSet();
             return $result;
         }

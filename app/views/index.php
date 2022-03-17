@@ -7,5 +7,5 @@ foreach ($data['users'] as $user) {
 */
 ?>
 HOME PAGE </br>
-<a href="mvc-toets.org/countries/index">Landenoverzicht</a>
+<a href="http://mvc-toets.org/countries/index">Landenoverzicht</a>
 
