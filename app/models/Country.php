@@ -1,5 +1,5 @@
 <?php
-    class User {
+    class getCountries {
         private $db;
 
         public function __construct() {
